@@ -14,7 +14,7 @@ title:            Benjamin Hmiel
 tagline:          'Geoscience, Ph. D'
 description:      ''
 url:              http://benhmiel.github.io
-baseurl:          /about.html
+baseurl:          /
 
 author:
   name:           'Benjamin Hmiel'
