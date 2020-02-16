@@ -10,15 +10,14 @@ permalink:        date
 relative_permalinks: false
 
 # Setup
-title:            Abe Hmiel
-tagline:          'Data Goblin, Ph. D'
+title:            Benjamin Hmiel
+tagline:          'Geoscience, Ph. D'
 description:      ''
-url:              http://abehmiel.github.io
+url:              http://benhmiel.github.io
 baseurl:          /
 
 author:
-  name:           'Abe Hmiel'
-  url:            https://twitter.com/unless_if
+  name:           'Benjamin Hmiel'
 
 paginate:         5
 
@@ -26,4 +25,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/abehmiel/abehmiel.github.io
+  repo:           https://github.com/benhmiel/benhmiel.github.io
